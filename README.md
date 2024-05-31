@@ -18,7 +18,7 @@ then:
 
     win + 1 | 2 | 3 | 4 > emulate keys to change PowerToys FancyZones layout
 
-# FanceZones
+# FancyZones
 
 install PowerToys https://aka.ms/getPowertoys
 
@@ -27,12 +27,12 @@ disable everything except the FanceZones and configure layouts
 then use win+w|a|s|d to change windows zones and shift + drag for fance zones
 
 
-## Cursor
+# Cursor
 
     https://vsthemes.org/en/cursors/68044-neuro-sama.html
 
 
-## Other themes 
+# Other themes 
 
 download
 
