@@ -4,12 +4,29 @@
     Send, {LShift up}{LAlt up}
 return
 
-#q::WinClose, A
 
-#w::WinMaximize, A
+#r::WinClose, A
 
-#s::WinRestore, A
 
-#a::Send, ^#{Left}
+#w::Send #{Up}
 
-#d::Send, ^#{Right}
+#s::Send #{Down}
+
+#a::Send #{Left}
+
+#d::Send #{Right}
+
+
+#q::Send ^#{Left}
+
+#e::Send ^#{Right}
+
+
+#1::Send #^!1
+
+#2::Send #^!2
+
+#3::Send #^!3
+
+#4::Send #^!4
+
