@@ -4,7 +4,7 @@
 
 # Windows management hotkeys
 
-move minWM.exe to shell:tartup
+move minWM.exe to shell:startup
 
 then:
 
